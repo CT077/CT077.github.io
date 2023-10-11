@@ -1,0 +1,33 @@
+body{background-color: beige;
+    padding:30px;
+    font-size:110%; 
+}
+.container{
+    width:100%;
+}
+.left-div{
+    width:600px;
+    float:left;
+    padding: 10px;
+} .right-div{
+    width:60%;
+    float:left;
+    padding-bottom: 15px;
+}
+hr{
+    border:none;
+    border-top:2px solid white;
+    margin: 10px 0;
+    width:56%
+}
+we{
+    font-weight: bold;
+    font-size: larger;
+}
+we1{
+    font-style: italic;
+    font-weight: bold;
+}
+we2{
+    font-style: italic;
+}
